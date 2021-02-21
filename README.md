@@ -45,4 +45,4 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/j7YwB7y6mz.gif" width = 250><br>
 
 ### Notes
-There were a few challenges in completing this lab. Not only was understanding how to align the different objects in various devices difficult, but even running the app on a real device was challenging. There was a lot of researching and googling around to figure out the various problems I encountered, such as how to trust the app on my phone. 
+There were a few challenges in completing this assignment. Not only was understanding how to align the different objects in various devices difficult, but even running the app on a real device was challenging. There was a lot of researching and googling around to figure out the various problems I encountered, such as how to trust the app on my phone. 
