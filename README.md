@@ -41,10 +41,10 @@ Describe any challenges encountered while building the app.
 
 ### App Works on Real Device and on Different Device Types
 
+Real device:
 <img src="http://g.recordit.co/j7YwB7y6mz.gif" width = 250><br>
 
 Here is an example of the app running on an ipad.
-
 <img src="http://g.recordit.co/i5WXppHZJn.gif" width = 250><br>
 
 ### Notes
