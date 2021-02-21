@@ -40,9 +40,13 @@ Describe any challenges encountered while building the app.
 
 <img src="http://g.recordit.co/AScO5MzHY4.gif" width=250><br>
 
-### App Works on Real Device
+### App Works on Real Device and on Different Device Types
 
 <img src="http://g.recordit.co/j7YwB7y6mz.gif" width = 250><br>
+
+Here is an example of the app running on an ipad.
+
+<img src="http://g.recordit.co/i5WXppHZJn.gif" width = 250><br>
 
 ### Notes
 There were a few challenges in completing this assignment. Not only was understanding how to align the different objects in various devices difficult, but even running the app on a real device was challenging. There was a lot of researching and googling around to figure out the various problems I encountered, such as how to trust the app on my phone. 
