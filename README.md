@@ -46,7 +46,7 @@ Real device:
 <img src="http://g.recordit.co/j7YwB7y6mz.gif" width = 250><br>
 
 Here is the app running on multiple devices: the iPad (8th generation), the iPod touch (7th generation), and the iPhone SE (2nd generation), respectively.
-<p float="left">
+<p align="middle">
   <img src="http://g.recordit.co/i5WXppHZJn.gif" width = 250>
   <img src="http://g.recordit.co/mbWUpzzZoE.gif" width = 250>
   <img src="http://g.recordit.co/yqD2iQEktO.gif" width = 250>
