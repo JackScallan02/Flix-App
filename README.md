@@ -43,7 +43,14 @@ Describe any challenges encountered while building the app.
 
 Real device:
 
-<img src="http://g.recordit.co/j7YwB7y6mz.gif" width = 250><br>
+<table>
+  <tr>
+    <td>Real device</td>
+    </tr>
+  <tr>
+    <td><img src="http://g.recordit.co/j7YwB7y6mz.gif" width=270 height=480></td>
+</tr>
+ </table>
 
 <table>
   <tr>
