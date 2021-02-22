@@ -41,8 +41,6 @@ Describe any challenges encountered while building the app.
 
 ### App Works on Real Device and on Different Device Types
 
-Real device:
-
 <table>
   <tr>
     <td>Real device</td>
