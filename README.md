@@ -36,7 +36,7 @@ It was challenging figuring out how to make the UI look pleasing to the eye via 
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/AScO5MzHY4.gif" width=250><br>
+<img src="http://g.recordit.co/IGvfF37UL5.gif" width=250><br>
 
 ### App Works on Real Device and on Different Device Types
 
