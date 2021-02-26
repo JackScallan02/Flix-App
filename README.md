@@ -45,7 +45,7 @@ It was challenging figuring out how to make the UI look pleasing to the eye via 
     <td>Real device</td>
     </tr>
   <tr>
-    <td><img src="http://g.recordit.co/j7YwB7y6mz.gif" width=270 height=480></td>
+    <td><img src="http://g.recordit.co/RJs5TOJB1J.gif" width=270 height=480></td>
 </tr>
  </table>
 
