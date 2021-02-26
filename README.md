@@ -56,7 +56,7 @@ It was challenging figuring out how to make the UI look pleasing to the eye via 
      <td>iPhone SE (2nd generation)</td>
   </tr>
   <tr>
-    <td><img src="http://g.recordit.co/i5WXppHZJn.gif" width=270 height=480></td>
+    <td><img src="http://g.recordit.co/RkavEdqjfP.gif" width=270 height=480></td>
     <td><img src="http://g.recordit.co/mbWUpzzZoE.gif" width=270 height=480></td>
     <td><img src="http://g.recordit.co/yqD2iQEktO.gif" width=270 height=480></td>
   </tr>
