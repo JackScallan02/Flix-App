@@ -14,6 +14,8 @@ class MovieCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
+        self.layer.borderWidth = 0.5
+        self.layer.borderColor = UIColor.gray.cgColor
         // Initialization code
     }
 
